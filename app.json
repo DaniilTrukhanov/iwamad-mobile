@@ -1,5 +1,8 @@
 {
   "expo": {
+    "experiments": {
+      "baseUrl": "/iwamad-mobile"
+    },
     "name": "iwamad-mobile",
     "slug": "iwamad-mobile",
     "version": "1.0.0",
